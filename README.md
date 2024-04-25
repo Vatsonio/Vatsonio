@@ -1,16 +1,13 @@
-### Hi there 👋
+![Header image](https://telegra.ph/file/5155c6ded74bcf57aa747.jpg)
 
-<!--
-**Vatsonio/Vatsonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast who loves to learn about new things.
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@ggggaggggagggg@gmail.com)](mailto:mail@ggggaggggagggg@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vatsonio/)](https://www.instagram.com/vatsonio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills:
+- Node.js
+- TypeScript
+- C++
+- Python
+
