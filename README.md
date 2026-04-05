@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d0d,40:0a1a1a,70:0d2626,100:030d0d&height=230&section=header&text=Vatsonio&fontSize=58&fontColor=ccfbf1&fontAlignY=40&desc=developer%20%C2%B7%20builder%20%C2%B7%20curious%20mind&descAlignY=60&descColor=5eead4&animation=fadeIn&fontAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1f1f&height=230&section=header&text=Vatsonio&fontSize=58&fontColor=ccfbf1&fontAlignY=40&desc=developer%20%C2%B7%20builder%20%C2%B7%20curious%20mind&descAlignY=60&descColor=5eead4&animation=fadeIn&fontAlign=50" width="100%" alt="header" />
 
 <br/>
 
@@ -89,4 +89,4 @@ compilers &nbsp;·&nbsp; automation &nbsp;·&nbsp; AI
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d0d,60:0d2626,100:0a1a1a&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d0d,100:0a1f1f&height=110&section=footer" width="100%" alt="footer" />
