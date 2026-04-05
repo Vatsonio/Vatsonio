@@ -88,5 +88,4 @@ compilers &nbsp;·&nbsp; automation &nbsp;·&nbsp; AI
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d0d,100:0a1f1f&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1f1f&height=110&section=footer" width="100%" alt="footer" />
