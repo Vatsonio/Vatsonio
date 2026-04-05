@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,40:0d0221,70:1a0533,100:0a0a1a&height=230&section=header&text=Vatsonio&fontSize=58&fontColor=e2e8f0&fontAlignY=40&desc=developer%20%C2%B7%20builder%20%C2%B7%20curious%20mind&descAlignY=60&descColor=818cf8&animation=fadeIn&fontAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d0d,40:0a1a1a,70:0d2626,100:030d0d&height=230&section=header&text=Vatsonio&fontSize=58&fontColor=ccfbf1&fontAlignY=40&desc=developer%20%C2%B7%20builder%20%C2%B7%20curious%20mind&descAlignY=60&descColor=5eead4&animation=fadeIn&fontAlign=50" width="100%" alt="header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&pause=2500&color=A855F7&center=true&vCenter=true&width=520&height=38&lines=TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Python+%C2%B7+C%2B%2B;building+things+one+commit+at+a+time;always+learning%2C+never+settling" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&pause=2500&color=2DD4BF&center=true&vCenter=true&width=520&height=38&lines=TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Python+%C2%B7+C%2B%2B;building+things+one+commit+at+a+time;always+learning%2C+never+settling" alt="typing" />
 
 <br/><br/>
 
 <a href="https://github.com/Vatsonio">
-  <img src="https://img.shields.io/badge/GitHub-Vatsonio-a855f7?style=flat-square&logo=github&logoColor=e2e8f0&labelColor=0d0221" alt="github" />
+  <img src="https://img.shields.io/badge/GitHub-Vatsonio-2dd4bf?style=flat-square&logo=github&logoColor=ccfbf1&labelColor=0a1515" alt="github" />
 </a>
 &nbsp;
-<a href="mailto:mail@ggggaggggagggg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-contact-38bdf8?style=flat-square&logo=gmail&logoColor=e2e8f0&labelColor=0d0221" alt="gmail" />
+<a href="mailto:igortank4@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-contact-5eead4?style=flat-square&logo=gmail&logoColor=ccfbf1&labelColor=0a1515" alt="gmail" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Vatsonio&style=flat-square&color=818cf8&label=visitors&labelColor=0d0221" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=Vatsonio&style=flat-square&color=2dd4bf&label=visitors&labelColor=0a1515" alt="visitors" />
 
 </div>
 
@@ -89,4 +89,4 @@ compilers &nbsp;·&nbsp; automation &nbsp;·&nbsp; AI
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,60:1a0533,100:030014&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d0d,60:0d2626,100:0a1a1a&height=110&section=footer" width="100%" alt="footer" />
